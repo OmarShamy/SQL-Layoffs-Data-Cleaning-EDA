@@ -3,7 +3,7 @@ Cleaning and analyzing layoffs data using SQL from Alex The Analyst bootcamp
 # 🧹 SQL Data Cleaning & EDA – Layoffs Dataset
 
 ## 📌 Overview
-This project focuses on cleaning and exploring a dataset of tech layoffs using MySQL. It includes tasks like removing duplicates, fixing formatting, handling missing values, and analyzing layoff trends.
+This project focuses on cleaning and exploring a dataset of tech layoffs using MySQL. It includes tasks like removing duplicates, fixing formatting, handling missing values, and analyzing layoff trends, and from there specify which company has the biggest layy_off throgh years.
 
 ## 🔧 Steps Taken:
 
